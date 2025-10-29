@@ -1,0 +1,1342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Hydranten Gesamt</name>
+
+    <!-- Stildefinitionen -->
+    <Style id="unterflurStyle">
+      <IconStyle>
+        <scale>0.6</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon49.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+
+    <Style id="ueberflurStyle">
+      <IconStyle>
+        <scale>0.6</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/dir_0.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+
+    <Folder>
+      <name>Unterflurhydranten</name>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA451UH016</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9679</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.262311</SimpleData>
+		<SimpleData name="Longitude">11.341363</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.341363,49.262311</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA451UH015</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9680</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.263519</SimpleData>
+		<SimpleData name="Longitude">11.342289</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.342289,49.263519</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA451UH017</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9681</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.263108</SimpleData>
+		<SimpleData name="Longitude">11.34124</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.34124,49.263108</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA451UH025</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9682</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.262255</SimpleData>
+		<SimpleData name="Longitude">11.344938</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.344938,49.262255</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA453UH005</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9683</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.265373</SimpleData>
+		<SimpleData name="Longitude">11.336045</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.336045,49.265373</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA453UH010</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9684</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.26463</SimpleData>
+		<SimpleData name="Longitude">11.336852</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.336852,49.26463</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA453UH015</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9685</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.264559</SimpleData>
+		<SimpleData name="Longitude">11.335652</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.335652,49.264559</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA453UH025</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9686</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.262195</SimpleData>
+		<SimpleData name="Longitude">11.332744</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.332744,49.262195</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA453UH035</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9687</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.261744</SimpleData>
+		<SimpleData name="Longitude">11.332872</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.332872,49.261744</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA453UH040</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9688</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.261784</SimpleData>
+		<SimpleData name="Longitude">11.33229</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.33229,49.261784</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA453UH045</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9689</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.261354</SimpleData>
+		<SimpleData name="Longitude">11.332393</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.332393,49.261354</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA454UH015</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9690</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.26569</SimpleData>
+		<SimpleData name="Longitude">11.336764</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.336764,49.26569</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA454UH005</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9691</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.264049</SimpleData>
+		<SimpleData name="Longitude">11.339729</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.339729,49.264049</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA455UH005</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9692</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.26858</SimpleData>
+		<SimpleData name="Longitude">11.344367</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.344367,49.26858</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA455UH010</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9693</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.267594</SimpleData>
+		<SimpleData name="Longitude">11.342897</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.342897,49.267594</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA455UH015</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9694</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.266953</SimpleData>
+		<SimpleData name="Longitude">11.341983</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.341983,49.266953</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA455UH020</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9695</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.266182</SimpleData>
+		<SimpleData name="Longitude">11.339871</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.339871,49.266182</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA455UH025</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9696</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.265582</SimpleData>
+		<SimpleData name="Longitude">11.340062</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.340062,49.265582</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA455UH030</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9697</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.265741</SimpleData>
+		<SimpleData name="Longitude">11.339749</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.339749,49.265741</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA456UH005</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9698</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.265105</SimpleData>
+		<SimpleData name="Longitude">11.340243</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.340243,49.265105</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA456UH010</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9699</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.263972</SimpleData>
+		<SimpleData name="Longitude">11.34127</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.34127,49.263972</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA456UH015</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9700</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.264542</SimpleData>
+		<SimpleData name="Longitude">11.341355</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.341355,49.264542</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA457UH005</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9701</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.26702</SimpleData>
+		<SimpleData name="Longitude">11.3411</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.3411,49.26702</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA457UH010</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9702</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.266834</SimpleData>
+		<SimpleData name="Longitude">11.340068</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.340068,49.266834</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA460UH005</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9703</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.26513</SimpleData>
+		<SimpleData name="Longitude">11.341527</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.341527,49.26513</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA460UH010</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9704</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.265454</SimpleData>
+		<SimpleData name="Longitude">11.341231</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.341231,49.265454</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA460UH015</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9705</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.265865</SimpleData>
+		<SimpleData name="Longitude">11.34117</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.34117,49.265865</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA460UH020</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9706</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.266436</SimpleData>
+		<SimpleData name="Longitude">11.342717</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.342717,49.266436</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA461UH005</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9707</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.26596</SimpleData>
+		<SimpleData name="Longitude">11.343187</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.343187,49.26596</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA462UH015</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9708</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.264518</SimpleData>
+		<SimpleData name="Longitude">11.34607</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.34607,49.264518</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA462UH030</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9709</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.265322</SimpleData>
+		<SimpleData name="Longitude">11.344565</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.344565,49.265322</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA462UH035</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9710</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.265694</SimpleData>
+		<SimpleData name="Longitude">11.344849</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.344849,49.265694</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA463UH010</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9711</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.265055</SimpleData>
+		<SimpleData name="Longitude">11.345588</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.345588,49.265055</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA464UH005</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9712</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.266672</SimpleData>
+		<SimpleData name="Longitude">11.343556</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.343556,49.266672</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA464UH010</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9713</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.267544</SimpleData>
+		<SimpleData name="Longitude">11.344036</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.344036,49.267544</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA465UH001</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9714</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.263641</SimpleData>
+		<SimpleData name="Longitude">11.348355</SimpleData>
+		<SimpleData name="Size">80</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.348355,49.263641</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA465UH005</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9715</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.263752</SimpleData>
+		<SimpleData name="Longitude">11.349398</SimpleData>
+		<SimpleData name="Size">80</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.349398,49.263752</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA466UH005</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9716</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.262912</SimpleData>
+		<SimpleData name="Longitude">11.348195</SimpleData>
+		<SimpleData name="Size">250</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.348195,49.262912</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA466UH010</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9717</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.264073</SimpleData>
+		<SimpleData name="Longitude">11.347591</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.347591,49.264073</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA466UH015</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9718</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.264815</SimpleData>
+		<SimpleData name="Longitude">11.347005</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.347005,49.264815</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA466UH020</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9719</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.265139</SimpleData>
+		<SimpleData name="Longitude">11.346661</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.346661,49.265139</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA466UH025</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9720</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.265809</SimpleData>
+		<SimpleData name="Longitude">11.345985</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.345985,49.265809</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA466UH030</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9721</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.266575</SimpleData>
+		<SimpleData name="Longitude">11.345414</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.345414,49.266575</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA466UH035</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9722</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.267282</SimpleData>
+		<SimpleData name="Longitude">11.34501</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.34501,49.267282</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA466UH040</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9723</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.267955</SimpleData>
+		<SimpleData name="Longitude">11.344731</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.344731,49.267955</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA466UH045</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9724</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.268718</SimpleData>
+		<SimpleData name="Longitude">11.344629</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.344629,49.268718</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA466UH050</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9725</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.267989</SimpleData>
+		<SimpleData name="Longitude">11.345634</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.345634,49.267989</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA467UH005</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9726</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.265979</SimpleData>
+		<SimpleData name="Longitude">11.346647</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.346647,49.265979</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA467UH010</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9727</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.266267</SimpleData>
+		<SimpleData name="Longitude">11.34734</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.34734,49.266267</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA468UH005</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9728</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.267296</SimpleData>
+		<SimpleData name="Longitude">11.346036</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.346036,49.267296</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA469UH005</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9729</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.27609</SimpleData>
+		<SimpleData name="Longitude">11.340487</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.340487,49.27609</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA469UH010</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9730</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.277528</SimpleData>
+		<SimpleData name="Longitude">11.338913</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.338913,49.277528</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA469UH015</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9731</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.276632</SimpleData>
+		<SimpleData name="Longitude">11.340694</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.340694,49.276632</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA469UH020</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9732</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.277676</SimpleData>
+		<SimpleData name="Longitude">11.339199</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.339199,49.277676</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA469UH025</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9733</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.277971</SimpleData>
+		<SimpleData name="Longitude">11.338785</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.338785,49.277971</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA469UH030</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9734</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.280058</SimpleData>
+		<SimpleData name="Longitude">11.338731</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.338731,49.280058</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA469UH035</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9735</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.279489</SimpleData>
+		<SimpleData name="Longitude">11.336679</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.336679,49.279489</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA469UH040</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9736</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.279815</SimpleData>
+		<SimpleData name="Longitude">11.337136</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.337136,49.279815</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA469UH045</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9737</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.280217</SimpleData>
+		<SimpleData name="Longitude">11.337743</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.337743,49.280217</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA457UH015</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9894</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.2665</SimpleData>
+		<SimpleData name="Longitude">11.339465</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.339465,49.2665</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA466UH004</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9895</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.257744</SimpleData>
+		<SimpleData name="Longitude">11.353517</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.353517,49.257744</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA451UH020</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9917</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.263777</SimpleData>
+		<SimpleData name="Longitude">11.343927</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.343927,49.263777</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA462UH005</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9918</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.263818</SimpleData>
+		<SimpleData name="Longitude">11.345461</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.345461,49.263818</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA462UH010</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9919</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.264279</SimpleData>
+		<SimpleData name="Longitude">11.345228</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.345228,49.264279</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA462UH025</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9920</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.26507</SimpleData>
+		<SimpleData name="Longitude">11.344786</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.344786,49.26507</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA462UH020</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9921</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.264864</SimpleData>
+		<SimpleData name="Longitude">11.344857</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.344857,49.264864</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA463UH005</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9922</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.265288</SimpleData>
+		<SimpleData name="Longitude">11.345348</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.345348,49.265288</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA470UH010</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9924</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.269177</SimpleData>
+		<SimpleData name="Longitude">11.345296</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.345296,49.269177</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA470UH005</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9925</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.268829</SimpleData>
+		<SimpleData name="Longitude">11.34531</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.34531,49.268829</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA456UH035</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9931</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.267078</SimpleData>
+		<SimpleData name="Longitude">11.344695</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.344695,49.267078</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA456UH025</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9932</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.265553</SimpleData>
+		<SimpleData name="Longitude">11.343813</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.343813,49.265553</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA456UH030</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9933</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.265992</SimpleData>
+		<SimpleData name="Longitude">11.343902</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.343902,49.265992</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA456UH020</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9934</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.264825</SimpleData>
+		<SimpleData name="Longitude">11.343233</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.343233,49.264825</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA458UH005</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9935</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.264211</SimpleData>
+		<SimpleData name="Longitude">11.343792</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.343792,49.264211</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA452UH005</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9941</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.262844</SimpleData>
+		<SimpleData name="Longitude">11.338392</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.338392,49.262844</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA451UH010</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9942</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.262737</SimpleData>
+		<SimpleData name="Longitude">11.338988</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.338988,49.262737</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA452UH015</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9943</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.264539</SimpleData>
+		<SimpleData name="Longitude">11.338307</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.338307,49.264539</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA451UH005</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9944</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.262049</SimpleData>
+		<SimpleData name="Longitude">11.338982</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.338982,49.262049</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA454UH010</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9945</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.264905</SimpleData>
+		<SimpleData name="Longitude">11.338783</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.338783,49.264905</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA455UH035</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9946</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.265301</SimpleData>
+		<SimpleData name="Longitude">11.339183</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.339183,49.265301</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA453UH020</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9947</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.263799</SimpleData>
+		<SimpleData name="Longitude">11.336031</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.336031,49.263799</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA452UH010</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9948</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.263992</SimpleData>
+		<SimpleData name="Longitude">11.337736</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.337736,49.263992</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA471UH005</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9954</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.263601</SimpleData>
+		<SimpleData name="Longitude">11.342569</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.342569,49.263601</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<description>PA471UH010</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9955</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.262641</SimpleData>
+		<SimpleData name="Longitude">11.343457</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.343457,49.262641</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#unterflurStyle</styleUrl>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">9957</SimpleData>
+		<SimpleData name="Type">Unterflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.2745989312592</SimpleData>
+		<SimpleData name="Longitude">11.3432986391378</SimpleData>
+		<SimpleData name="Department">WV Postbauer-Heng</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.3432986391378,49.2745989312592</coordinates></Point>
+  </Placemark>
+    </Folder>
+    <Folder>
+      <name>Überflurhydranten</name>
+<Placemark>
+      <styleUrl>#ueberflurStyle</styleUrl>
+	<description>PA451OH010</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">2514</SimpleData>
+		<SimpleData name="Type">Überflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.263819</SimpleData>
+		<SimpleData name="Longitude">11.346002</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.346002,49.263819</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#ueberflurStyle</styleUrl>
+	<description>PA451OH015</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">2515</SimpleData>
+		<SimpleData name="Type">Überflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.263622</SimpleData>
+		<SimpleData name="Longitude">11.347497</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.347497,49.263622</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#ueberflurStyle</styleUrl>
+	<description>PA454OH005</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">2516</SimpleData>
+		<SimpleData name="Type">Überflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.264844</SimpleData>
+		<SimpleData name="Longitude">11.338821</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.338821,49.264844</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#ueberflurStyle</styleUrl>
+	<description>PA455OH005</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">2517</SimpleData>
+		<SimpleData name="Type">Überflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.26803</SimpleData>
+		<SimpleData name="Longitude">11.343661</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.343661,49.26803</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#ueberflurStyle</styleUrl>
+	<description>PA455OH010</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">2518</SimpleData>
+		<SimpleData name="Type">Überflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.266284</SimpleData>
+		<SimpleData name="Longitude">11.340787</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.340787,49.266284</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#ueberflurStyle</styleUrl>
+	<description>PA457OH005</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">2519</SimpleData>
+		<SimpleData name="Type">Überflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.267375</SimpleData>
+		<SimpleData name="Longitude">11.340424</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.340424,49.267375</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#ueberflurStyle</styleUrl>
+	<description>PA460OH005</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">2520</SimpleData>
+		<SimpleData name="Type">Überflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.265983</SimpleData>
+		<SimpleData name="Longitude">11.341812</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.341812,49.265983</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#ueberflurStyle</styleUrl>
+	<description>PA461OH005</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">2521</SimpleData>
+		<SimpleData name="Type">Überflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.265555</SimpleData>
+		<SimpleData name="Longitude">11.342208</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.342208,49.265555</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#ueberflurStyle</styleUrl>
+	<description>PA462OH010</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">2522</SimpleData>
+		<SimpleData name="Type">Überflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.265315</SimpleData>
+		<SimpleData name="Longitude">11.344546</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.344546,49.265315</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#ueberflurStyle</styleUrl>
+	<description>PA462OH015</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">2523</SimpleData>
+		<SimpleData name="Type">Überflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.265502</SimpleData>
+		<SimpleData name="Longitude">11.344629</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.344629,49.265502</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#ueberflurStyle</styleUrl>
+	<description>PA464OH005</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">2524</SimpleData>
+		<SimpleData name="Type">Überflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.26714</SimpleData>
+		<SimpleData name="Longitude">11.343237</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.343237,49.26714</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#ueberflurStyle</styleUrl>
+	<description>PA468OH005</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">2525</SimpleData>
+		<SimpleData name="Type">Überflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.266777</SimpleData>
+		<SimpleData name="Longitude">11.346561</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.346561,49.266777</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#ueberflurStyle</styleUrl>
+	<description>PA469OH005</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">2526</SimpleData>
+		<SimpleData name="Type">Überflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.276854</SimpleData>
+		<SimpleData name="Longitude">11.339709</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.339709,49.276854</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#ueberflurStyle</styleUrl>
+	<description>PA469OH010</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">2527</SimpleData>
+		<SimpleData name="Type">Überflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.277123</SimpleData>
+		<SimpleData name="Longitude">11.340043</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.340043,49.277123</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#ueberflurStyle</styleUrl>
+	<description>PA469OH020</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">2528</SimpleData>
+		<SimpleData name="Type">Überflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.278362</SimpleData>
+		<SimpleData name="Longitude">11.338258</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.338258,49.278362</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#ueberflurStyle</styleUrl>
+	<description>PA469OH025</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">2529</SimpleData>
+		<SimpleData name="Type">Überflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.277951</SimpleData>
+		<SimpleData name="Longitude">11.337527</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.337527,49.277951</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#ueberflurStyle</styleUrl>
+	<description>PA469OH030</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">2530</SimpleData>
+		<SimpleData name="Type">Überflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.27772</SimpleData>
+		<SimpleData name="Longitude">11.337757</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.337757,49.27772</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#ueberflurStyle</styleUrl>
+	<description>PA469OH035</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">2531</SimpleData>
+		<SimpleData name="Type">Überflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.280465</SimpleData>
+		<SimpleData name="Longitude">11.338187</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.338187,49.280465</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#ueberflurStyle</styleUrl>
+	<description>PA469OH040</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">2532</SimpleData>
+		<SimpleData name="Type">Überflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.280521</SimpleData>
+		<SimpleData name="Longitude">11.340453</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.340453,49.280521</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#ueberflurStyle</styleUrl>
+	<description>PA469OH045</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">2570</SimpleData>
+		<SimpleData name="Type">Überflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.280179</SimpleData>
+		<SimpleData name="Longitude">11.340991</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.340991,49.280179</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#ueberflurStyle</styleUrl>
+	<description>PA469OH050</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">2571</SimpleData>
+		<SimpleData name="Type">Überflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.279792</SimpleData>
+		<SimpleData name="Longitude">11.341587</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.341587,49.279792</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#ueberflurStyle</styleUrl>
+	<description>PA469OH055</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">2572</SimpleData>
+		<SimpleData name="Type">Überflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.279146</SimpleData>
+		<SimpleData name="Longitude">11.342585</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.342585,49.279146</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#ueberflurStyle</styleUrl>
+	<description>PA462OH005</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">2576</SimpleData>
+		<SimpleData name="Type">Überflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.264861</SimpleData>
+		<SimpleData name="Longitude">11.344831</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.344831,49.264861</coordinates></Point>
+  </Placemark>
+<Placemark>
+      <styleUrl>#ueberflurStyle</styleUrl>
+	<description>PA451OH005</description>
+	<ExtendedData><SchemaData schemaUrl="#pasted_features">
+		<SimpleData name="fid">2577</SimpleData>
+		<SimpleData name="Type">Überflurhydrant</SimpleData>
+		<SimpleData name="Latitude">49.263032</SimpleData>
+		<SimpleData name="Longitude">11.339961</SimpleData>
+		<SimpleData name="Department">WV Möninger Gruppe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.339961,49.263032</coordinates></Point>
+  </Placemark>
+    </Folder>
+  </Document>
+</kml>
